@@ -37,9 +37,12 @@ simply run
 ```sh
 tf apply 
 ```
-### !!! Danger !!!
+### !!! Warning !!!
 
-scripts now modify `/etc/hosts/` be sure of what you are doing 
+scripts now modify `/etc/hosts/` so you can connect to your VM with 
+```sh
+ssh ${vm_name}.multipass
+```
 
 
 ### TODO
