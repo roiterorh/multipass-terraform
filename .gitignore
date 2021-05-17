@@ -1,0 +1,4 @@
+scripts/init
+.terraform
+terraform*
+config.yaml
