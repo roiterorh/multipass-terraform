@@ -44,5 +44,7 @@ scripts now modify `/etc/hosts/` be sure of what you are doing
 
 ### TODO
 add switch for DNS
+
 update on cloud init change instead of recreate
+
 update on ressources change
